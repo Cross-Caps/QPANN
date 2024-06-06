@@ -1,6 +1,6 @@
-# QPANN
+# QPANNs
 
-The repo contains codes for our paper "Efficient CNNs with Quaternion Transformations and Pruning for Audio Tagging" [1]. The QPANNs are efficient version of PANNs model [2]. 
+The repo contains codes for our paper "Efficient CNNs with Quaternion Transformations and Pruning for Audio Tagging" [1]. The efficient Quaternion PANNs are efficient version of PANNs model [2], obtained by quaternion transformation followed by pruning. 
 
 
 # Repo will be updated shortly
